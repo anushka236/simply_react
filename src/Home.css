@@ -1,0 +1,16 @@
+
+.btn {
+    will-change: transform;
+    transition: transform 450ms;
+    background-color:white !important;
+    border-radius: 50px;
+}
+  
+.btn:hover {
+    background-color:rgb(80, 80, 235)!important;
+    transition: transform 125ms;
+    transform: translateY(-10px);
+}
+#header .brand-name{
+    color:rgb(80, 80, 235) ;
+}

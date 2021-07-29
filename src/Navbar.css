@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Qahiri&family=Tourney:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Qahiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+
+.navbar-brand{
+    color:rgb(80, 80, 235)!important;
+    font-family: 'Style Script';
+    font-size: 35px;
+    font-weight: bolder !important;
+    
+  
+    padding-top: 30px;
+    margin-top: 15px;
+    margin-bottom: 6px;
+}
+.nav-link{
+    padding-top: -20px;
+    color:rgb(80, 80, 235)!important;
+    font-style: bold;
+    font-family:"Lato";
+    font-weight: bolder;
+    padding-bottom: 30px;
+    transition: transform 250ms;
+    justify-self: flex-end;
+    
+ 
+  
+}
+.nav-link:hover{
+    color:rgb(80, 80, 235)!important;
+    transform: translateY(-5px);
+    text-decoration: underline;
+}
+.navbar-nav{
+    margin-top: -30px;
+}
+
+
+
